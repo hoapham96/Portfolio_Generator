@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoapham96/Portfolio_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoapham96/Portfolio_Generator/issues"
+  },
+  "homepage": "https://github.com/hoapham96/Portfolio_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
